@@ -66,7 +66,7 @@ public class SandwichApp {
                 case 5 -> System.out.println("No meat selected.");
             }
 
-            System.out.print("Enter customer's name: ");
+            System.out.print("Enter customer's full name: ");
             String customerName = scanner.nextLine();
 
             Order order = new Order(customerName, sandwich);

@@ -1,0 +1,4 @@
+May 17, 2024, 12:25:57 AM	Katie	Wheat Bread	red onions	Roasted Chicken Breast	$2.75
+Aug 31, 2024, 10:54:59 AM	katie	Wheat Bread	cheese, green peppers, pickles, lettuce, tomatoes, red onions, olives, olives, pickles	Roasted Chicken Breast	$4.40
+Sep 2, 2024, 11:08:52 AM	katie	French Bread	olives, tomatoes	Turkey Breast	$3.40
+Sep 2, 2024, 11:58:41 AM	Katie Shadrick	Wheat Bread	red onions, green peppers, cheese	Turkey Breast	$3.60
